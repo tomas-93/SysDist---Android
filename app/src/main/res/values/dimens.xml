@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="activity_vertical_top">160dp</dimen>
+    <dimen name="elevation">16dp</dimen>
+    <dimen name="elevation_content">8dp</dimen>
+    <dimen name="margin_top_fragment">10dp</dimen>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="margin_mini">15dp</dimen>
+    <dimen name="margin_register">10dp</dimen>
+    <dimen name="margin_main">35dp</dimen>
+    <dimen name="paddin_layout">5dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="textView">18sp</dimen>
+    <dimen name="titlePadding">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="heigth">125dp</dimen>
+    <dimen name="buton_heigth">35dp</dimen>
+    <dimen name="text_size_register">15sp</dimen>
+    <dimen name="activity_vertical_Bottom">15dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="card">5dp</dimen>
+    <dimen name="level_1">25sp</dimen>
+    <dimen name="level_2">19sp</dimen>
+    <dimen name="level_3">15sp</dimen>
+    <dimen name="level_4">12sp</dimen>
+    <dimen name="translation">12dp</dimen>
+    <dimen name="margin_card_start_end">5dp</dimen>
+    <dimen name="margin_card_left_right">8dp</dimen>
+    <dimen name="menu_margin_bottom">40dp</dimen>
+    <dimen name="size_heigth">350dp</dimen>
+    <dimen name="margin_top_card_fragment">60dp</dimen>
+    <dimen name="margin_top_card_fragment2">75dp</dimen>
+    <dimen name="title_fragment_student">20sp</dimen>
+
+
+
+</resources>

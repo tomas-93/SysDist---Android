@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SysDis</string>
+    <string name="action_settings">Settings</string>
+    <string name="system">Sistemas Distribuidos</string>
+    <string name="title_activity_settings">SysDis- Configuracion</string>
+    <string name="title_activity_register">SysDis - Registro de Usuario</string>
+    <string name="title_activity_list">SysDis - Lista de Registro</string>
+    <string name="ipString">IP - Server</string>
+    <string name="opteto1">192</string>
+    <string name="opteto2">168</string>
+    <string name="opteto3">0</string>
+    <string name="opteto4">1</string>
+    <string name="punto">.</string>
+    <string name="settings">Configiracion</string>
+    <string name="register">Registrarse</string>
+    <string name="list">Ver Registro</string>
+    <string name="option">Registrar a?</string>
+    <string name="teacher">Maestro</string>
+    <string name="student">Estudiante</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="name">Nombre...</string>
+    <string name="control">Numero de Control...</string>
+    <string name="last_name">Apellidos...</string>
+    <string name="school">Escuela...</string>
+    <string name="level">Grado y Grupo...</string>
+    <string name="number">Numero Telefonico...</string>
+    <string name="race">Carrera...</string>
+    <string name="email">E-Mail...</string>
+<!-- TODO: Fragment de list-->
+    <string name="option_list">Lista de?</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="studentFrag">Informacion de Estudiantes</string>
+    <string name="teacherFrag">Informacion de Maestro</string>
+
+
+
+
+
+</resources>

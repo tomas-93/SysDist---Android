@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_list">
+<!---TODO: Contenedor de los layout fragment_list_student y fragment_list_teacher -->
+<!-- TODO: Esto es para la actividad list -->
+</LinearLayout>
